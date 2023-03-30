@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 
 """
-Bishal Giri
-1001934305
-Lab 03
 """
 
 OPERATORS = ['+', '-', '*', '/']
